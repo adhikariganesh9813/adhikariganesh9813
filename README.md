@@ -11,5 +11,5 @@
 
 
 # Personal-Website-
-Personal website developed for my own personal portfolio. Planning to scale up the features in near future.
+Personal website developed for my own personal portfolio.
 Check at (https://adhikariganesh9813.github.io)
