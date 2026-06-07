@@ -1,6 +1,6 @@
 # Know more about me @ (https://adhikariganesh9813.github.io)
 
-## 📜 Certifications
+## 📜 Certifications - Click on badges to verify.
 <p align="left">
   <a href="https://www.credly.com/badges/0f275cbd-29a0-4680-a85e-550b7681242b/public_url">
     <img src="https://images.credly.com/size/220x220/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="160" style="margin-right: 20px;"/>
