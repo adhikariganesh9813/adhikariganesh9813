@@ -1,6 +1,6 @@
-# Know more about me @ (adhikariganesh9813.github.io)
+# Know more about me @: www.adhikariganesh9813.github.io
 
-# Source code @: github.com/adhikariganesh9813/adhikariganesh9813.github.io
+# Source code @: www.github.com/adhikariganesh9813/adhikariganesh9813.github.io
 
 ## 📜 Certifications - Click on badges to verify.
 <p align="left">
